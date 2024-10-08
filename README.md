@@ -45,7 +45,6 @@ Our team comprises passionate researchers working on cutting-edge problems in co
    **[Personal Website](https://www.ist.uni-stuttgart.de/institute/team/Jakob-00004/)**
 
 - **M.Sc. Massimiliano Manenti**  
-   ![Massimiliano Manenti](./images/massimiliano.jpg "Massimiliano_Manenti")  
    **Title**: PhD Candidate   
    **Research Interests**: Optimal Control, Reinforcement Learning, Learning-based Control, and Mobile Robotics  
    **[Personal Website](https://www.ist.uni-stuttgart.de/institute/team/Manenti/)**
