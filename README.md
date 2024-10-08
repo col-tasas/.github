@@ -29,27 +29,28 @@ Our research lies at the intersection of **control theory**, **optimization**, a
 Our team comprises passionate researchers working on cutting-edge problems in control, optimization, and learning.
 
 ### Group Leader
-- **Prof. Dr. [Andrea Iannelli]**  
+- **Prof. Dr. Andrea Iannelli**  
    **Research Interests**:  
    **[Personal Website](https://andreaian.github.io/index.html)**  
 
 ### Members
-- **M.Sc. [Nicolas Chatzikiriakos]**  
+- **M.Sc. Nicolas Chatzikiriakos**    
    **Title**: PhD Candidate  
    **Research Interests**:  
    **[Personal Website](https://www.ist.uni-stuttgart.de/institute/team/Chatzikiriakos/)**
 
-- **M.Sc. [Fabian Jakob]**  
+- **M.Sc. Fabian Jakob**  
    **Title**: PhD Candidate  
    **Research Interests**:  
    **[Personal Website](https://www.ist.uni-stuttgart.de/institute/team/Jakob-00004/)**
 
-- **M.Sc. [Massimiliano Manenti]**  
+- **M.Sc. Massimiliano Manenti**  
+   ![Massimiliano Manenti](./images/massimiliano.jpg "Massimiliano_Manenti")  
    **Title**: PhD Candidate   
    **Research Interests**: Optimal Control, Reinforcement Learning, Learning-based Control, and Mobile Robotics  
    **[Personal Website](https://www.ist.uni-stuttgart.de/institute/team/Manenti/)**
 
-- **M.Sc. [Bowen Song]**  
+- **M.Sc. Bowen Song**  
      **Title**: PhD Candidate  
      **Research Interests**:  
      **[Personal Website](https://www.ist.uni-stuttgart.de/institute/team/Song-00001/)**
