@@ -36,22 +36,22 @@ Our team comprises passionate researchers working on cutting-edge problems in co
 ### Members
 - **M.Sc. [Nicolas Chatzikiriakos]**  
    **Title**: PhD Candidate  
-   **Research Interests**: 
+   **Research Interests**:  
    **[Personal Website](https://www.ist.uni-stuttgart.de/institute/team/Chatzikiriakos/)**
 
 - **M.Sc. [Fabian Jakob]**  
    **Title**: PhD Candidate  
-   **Research Interests**: 
+   **Research Interests**:  
    **[Personal Website](https://www.ist.uni-stuttgart.de/institute/team/Jakob-00004/)**
 
 - **M.Sc. [Massimiliano Manenti]**  
-   **Title**: PhD Candidate  
-   **Research Interests**: Optimal Control, Reinforcement Learning, Learning-based Control, and Mobile Robotics
+   **Title**: PhD Candidate   
+   **Research Interests**: Optimal Control, Reinforcement Learning, Learning-based Control, and Mobile Robotics  
    **[Personal Website](https://www.ist.uni-stuttgart.de/institute/team/Manenti/)**
 
 - **M.Sc. [Bowen Song]**  
      **Title**: PhD Candidate  
-     **Research Interests**: 
+     **Research Interests**:  
      **[Personal Website](https://www.ist.uni-stuttgart.de/institute/team/Song-00001/)**
 
 
