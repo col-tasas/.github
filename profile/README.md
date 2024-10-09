@@ -46,6 +46,11 @@ Our team comprises passionate researchers working on cutting-edge problems in co
    **Research Interests**: Optimization Algorithms, Robust Control
    **[Personal Website](https://www.ist.uni-stuttgart.de/institute/team/Jakob-00004/)**
 
+- **M.Sc. Fabian Jakob**  
+   **Title**: PhD Candidate   
+   **Research Interests**: Optimization Algorithms, Robust Control  
+   **[Personal Website](https://www.ist.uni-stuttgart.de/institute/team/Jakob-00004/)**
+
 - **M.Sc. Massimiliano Manenti**  
    **Title**: PhD Candidate   
    **Research Interests**: Optimal Control, Reinforcement Learning, Learning-based Control, and Mobile Robotics  
