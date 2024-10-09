@@ -1,3 +1,5 @@
+![SysDO Graph](../images/concept_graph.png)
+
 # Control, Optimization and Learning
 
 ## About Us
