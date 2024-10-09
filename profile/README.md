@@ -1,6 +1,8 @@
 # Control, Optimization and Learning
 
-![SysDO Graph](../images/concept_graph.png)
+<div align="center">
+  <img src="../images/concept_graph.png" alt="SysDO Graph" width="50%">
+</div>
 
 ## About Us
 The **Trustworthy Autonomy for Smart Adaptive Systems (TASAS)** group, part of the **Institute for Systems Theory and Automatic Control (IST)**, conducts fundamental research in the modelling, analysis, and control of uncertain **linear** and **nonlinear dynamical systems**. Our work spans both **model-based** and **data-driven approaches**, as we believe that combining these paradigms is essential for developing safe, efficient, and optimal solutions for complex systems.
@@ -40,11 +42,6 @@ Our team comprises passionate researchers working on cutting-edge problems in co
    **Title**: PhD Candidate  
    **Research Interests**:  
    **[Personal Website](https://www.ist.uni-stuttgart.de/institute/team/Chatzikiriakos/)**
-
-- **M.Sc. Fabian Jakob**  
-   **Title**: PhD Candidate  
-   **Research Interests**: Optimization Algorithms, Robust Control
-   **[Personal Website](https://www.ist.uni-stuttgart.de/institute/team/Jakob-00004/)**
 
 - **M.Sc. Fabian Jakob**  
    **Title**: PhD Candidate   
