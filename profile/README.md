@@ -1,7 +1,7 @@
 # Control, Optimization and Learning
 
 <div align="center">
-  <img src="../images/concept_graph.png" alt="SysDO Graph" width="50%">
+  <img src="../images/concept_graph.png" alt="SysDO Graph" width="100%">
 </div>
 
 ## About Us
