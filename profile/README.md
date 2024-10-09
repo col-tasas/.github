@@ -1,4 +1,4 @@
-# .github
+# Control, Optimization and Learning
 
 ## About Us
 The **Trustworthy Autonomy for Smart Adaptive Systems (TASAS)** group, part of the **Institute for Systems Theory and Automatic Control (IST)**, conducts fundamental research in the modelling, analysis, and control of uncertain **linear** and **nonlinear dynamical systems**. Our work spans both **model-based** and **data-driven approaches**, as we believe that combining these paradigms is essential for developing safe, efficient, and optimal solutions for complex systems.
