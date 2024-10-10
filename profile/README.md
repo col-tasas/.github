@@ -40,7 +40,7 @@ Our team comprises passionate researchers working on cutting-edge problems in co
 ### Members
 - **M.Sc. Nicolas Chatzikiriakos**    
    **Title**: PhD Candidate  
-   **Research Interests: Learning-based control, Statistical Learning Theory, System Identification**
+   **Research Interests:** Learning-based control, Statistical Learning Theory, System Identification   
    **[Personal Website](https://www.ist.uni-stuttgart.de/institute/team/Chatzikiriakos/)**
 
 - **M.Sc. Fabian Jakob**  
