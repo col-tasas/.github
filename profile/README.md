@@ -7,7 +7,10 @@
 ## About Us
 The **Trustworthy Autonomy for Smart Adaptive Systems (TASAS)** group, part of the **Institute for Systems Theory and Automatic Control (IST)**, conducts fundamental research in the modelling, analysis, and control of uncertain **linear** and **nonlinear dynamical systems**. Our work spans both **model-based** and **data-driven approaches**, as we believe that combining these paradigms is essential for developing safe, efficient, and optimal solutions for complex systems.
 
-We address key challenges in control theory, optimization, and learning, with a focus on:
+---
+
+## Research Focus
+Our research lies at the intersection of **control theory**, **optimization**, and **learning**. We pursue both fundamental and applied research, with a focus on:
 - **Data-Driven Control Theory**
 - **System Identification**
 - **Uncertainty Quantification**
@@ -16,16 +19,6 @@ We address key challenges in control theory, optimization, and learning, with a 
 - **Dynamical Systems Theory**
 
 Our overarching goal is to **foster trustworthy autonomy** by advancing the design of intelligent systems, with a particular emphasis on applications in **sustainable energy systems**, **smart transportation**, and **Industry 4.0**.
-
----
-
-## Research Focus
-Our research lies at the intersection of **control theory**, **optimization**, and **learning**. We pursue both fundamental and applied research, guided by the following objectives:
-
-- **Model-Based Approaches**: We develop advanced methods for the control and analysis of uncertain dynamical systems, ensuring robustness and efficiency.
-- **Data-Based Approaches**: By leveraging machine learning and data-driven techniques, we aim to improve system performance and safety, particularly in scenarios where obtaining precise models is challenging.
-- **Trustworthy Autonomy**: We focus on developing systems that are reliable, adaptive, and secure, prioritizing safety and reducing conservatism.
-- **Sustainability**: Our research is motivated by the need to design intelligent systems that contribute to a sustainable society, with a strong focus on **energy** and **transportation** systems.
 
 ---
 
