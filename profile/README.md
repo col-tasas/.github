@@ -48,7 +48,7 @@ Our team comprises passionate researchers working on cutting-edge problems in co
 
 - **M.Sc. Bowen Song**  
      **Title**: PhD Candidate  
-     **Research Interests**:  
+     **Research Interests**: Data-driven Control, Policy Optimization  
      **[Personal Website](https://www.ist.uni-stuttgart.de/institute/team/Song-00001/)**
 
 
